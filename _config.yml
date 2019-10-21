@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          MSM-Xtended
+description:    "Custom ROM redefined"
+baseurl:        ""
+url:            "blog.msmxtended.me"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         MSM-Xtended
+  url:          https://msmxtended.me
+  email:        msmxtended@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -35,4 +35,8 @@ permalink:      /:year-:month-:day/:title
 paginate:       5
 
 # Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+exclude: [ Gemfile ]
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme

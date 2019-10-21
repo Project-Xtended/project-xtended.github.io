@@ -6,6 +6,7 @@
 html,
 body {
   color: $default-color;
+  background-color: #000000;
   margin: 0;
   padding: 0;
 }
@@ -30,13 +31,13 @@ h3,
 h4,
 h5,
 h6 {
-  color: $default-shade;
+  color: #fff;
   font-family: $sans-serif;
   line-height: normal;
 }
 
 a {
-  color: $blue;
+  color: #e34500;
   text-decoration: none;
 }
 
