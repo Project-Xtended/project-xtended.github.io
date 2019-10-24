@@ -40,3 +40,6 @@ exclude: [ Gemfile ]
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
+
+  # Disqus (Set to your disqus id)
+disqus: msmxtended
