@@ -30,6 +30,10 @@ Settings
 3) Security
    a) Scramble Pin
    b) Quick Unlock with Pin Input
+   
+4) Battery
+    a) Smart charging
+    b) Battery health
 
 Options Inside Xtensions
 
@@ -100,10 +104,6 @@ Options Inside Xtensions
 	
 12) Xtra Options
     a) Wake up on charging
-    
-13 ) Battery
-    a) Smart charging
-    b) Battery health
     
 {% endhighlight %}
 
