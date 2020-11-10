@@ -14,6 +14,7 @@ As the Security Patch is out, we are on a task to update every device associated
 
 Let's see what we got for MSM Xtended XR v2.0 -:
 
+{% highlight markdown %}
 * Merged November Security patch
 * Added our new cool Bootanimation
 * Added QS opacity.
@@ -81,6 +82,7 @@ Let's see what we got for MSM Xtended XR v2.0 -:
 * Fixed background colouring for settings themed icons
 * Switched to MetroMusicPlayer
 * Many more under the hood changes,fixes & optimisations
+{% endhighlight %}
 
 This is the 2nd release of MSM Xtended based Android 11.0 / R and we have tried to make the best of it.
 
