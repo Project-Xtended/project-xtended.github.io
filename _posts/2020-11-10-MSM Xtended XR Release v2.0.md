@@ -17,8 +17,6 @@ Let's see what we got for MSM Xtended XR v2.0 -:
 {% highlight markdown %}
 * Merged November Security patch
 * Added our new cool Bootanimation
-* Added QS opacity.
-* Added QS Panel type background
 * Added MicroG Support
 * Added Signature Spoofing
 * Added Navigation bar visibilty controls
